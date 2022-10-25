@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-
+//This is the code for array display.
     public static void main(String[] args) {
 
         System.out.println("Enter n: ");
