@@ -11,6 +11,7 @@ public class Main {
 
         int[] num=new int[count];
         String[] str=new String[count];
+		//enter number
         System.out.println("Enter numbers :");
         for(int i=0;i<count;i++){
             Scanner scCost = new Scanner(System.in);
